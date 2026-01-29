@@ -1,0 +1,4 @@
+project_id = "vgaeqwdxywdubcwadnql"
+
+[functions.analyze-comments]
+verify_jwt = false
